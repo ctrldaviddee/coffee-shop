@@ -274,8 +274,44 @@ html ::-webkit-scrollbar{
 #menu p span{
     float: right;
     cursor: pointer;
-    
+
 }
 
 
 /* menu end */
+
+
+/* product section start */
+
+#product{
+    width: 100%;
+}
+
+.heading4{
+    text-align: center;
+    color: #b2744c;
+    font-size: 30px;
+    padding-top: 100px;
+    border-bottom: 2px solid #b2744c;
+}
+
+#container3{
+    margin-top: 30px;
+}
+
+#product h3{
+    text-align: center;
+    color: #b2744c;
+    font-size: 23px;
+}
+
+#product p{
+    color: #b2744c;
+    padding-top: 10px;
+}
+
+#product p span{
+    float: right;
+    cursor: pointer;
+}
+/* product secton end */
